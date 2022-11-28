@@ -100,7 +100,6 @@ function App() {
           disabled={isWinner || isLoser}
         />
       </div>
-      {wordToGuess}
     </div>
   );
 }
